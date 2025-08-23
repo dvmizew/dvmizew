@@ -4,11 +4,14 @@
 
 ###
 
-![dvmizew's Stats](https://github-readme-stats.vercel.app/api?username=dvmizew&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dvmizew&theme=bear" width=750 alt="stats graph"/>
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dvmizew&theme=bear" alt="GitHub Streak"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvmizew&layout=compact&theme=bear" alt="Top Languages"/>
+</div>
 
-![dvmizew's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dvmizew&theme=vue-dark&hide_border=true)
-
-![dvmizew's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dvmizew&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ###
 
 <h2 align="center">Tech I Use</h2>
