@@ -1,6 +1,6 @@
 
-- 👨‍💻 Computer Engineering Student at University of Bucharest  
-- 🔭 Interested in .NET, Python, Arduino, and Linux development
+- 👨‍💻 Computer Engineering Student at University of Bucharest.
+- 🔭 Interested in all sorts of programming languages and Linux.
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="center">Tech I Use</h2>
+<h2 align="center">What I used till now</h2>
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-<h2 align="center">Find Me</h2>
+<h2 align="center">You can find me on</h2>
 
 ###
 
